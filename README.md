@@ -16,5 +16,4 @@ This project focuses on classifying text comments into emotions using machine le
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MUHSINA25/emotion-classification.git
-
+   git clone https://github.com/MUHSINA25/NLP---Emotion-Classification-in-Text.git
